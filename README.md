@@ -1,8 +1,10 @@
 # WWI19SEB Native Entwicklung Mobiler Applikationen
 
 ## Prüfungsleistungen
-1. Referate
-2. Apps
+
+1. Gruppen- oder Einzel Referate  
+2. Weiter an bestehenden Apps arbeiten  
+3. Neue Apps bzw. vllt. auch nur in einer neuen (nativen / proprietären) Technologie - entwickeln  
 
 ## Themengebiete
 [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o)   
