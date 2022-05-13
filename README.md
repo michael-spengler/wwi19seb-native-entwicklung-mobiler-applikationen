@@ -29,4 +29,6 @@ Performance
 Scope   
 Separation of Concerncs   
 High Cohesion  
-Loose Coupling  
+Loose Coupling   
+Aussagekräftige Readme Datei  
+Learnings dokumentiert...  
