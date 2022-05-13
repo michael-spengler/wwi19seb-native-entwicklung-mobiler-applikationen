@@ -34,3 +34,7 @@ High Cohesion
 Loose Coupling   
 Aussagekräftige Readme Datei  
 Learnings dokumentiert...  
+
+## Vorlesungsgestaltung
+30 - 60 mins in der großen Runde Besprechung typischer Challenges   
+Danach Gruppenarbeit   
