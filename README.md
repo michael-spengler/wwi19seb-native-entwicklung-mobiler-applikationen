@@ -10,8 +10,8 @@
 [Cross-Platform vs. Native App Development](https://www.youtube.com/watch?v=Mq_HS-o-v6o)   
 
 ## Programming Languages
-[Kotlin](https://www.youtube.com/watch?v=cxm9AHNDMPI)    
-[Swift](https://www.youtube.com/watch?v=nAchMctX4YA)   
+[Kotlin](https://www.youtube.com/watch?v=cxm9AHNDMPI) - [in 100 seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0)    
+[Swift](https://www.youtube.com/watch?v=n5X_V81OYnQ) - [in 100 seconds](https://www.youtube.com/watch?v=nAchMctX4YA)   
 [Dart](https://dart.dev/)
 
 ## Native 
