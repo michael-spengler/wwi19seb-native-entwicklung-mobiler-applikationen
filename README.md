@@ -24,6 +24,12 @@ Native [IOS Development](https://www.youtube.com/watch?v=yuo50-TiKgo)
 [Kotlin Native](https://www.youtube.com/watch?v=oyyQJstXTL0)  
 [Kotlin Multiplatform](https://www.youtube.com/watch?v=6gHklmfh0KU)  
 
+## App Stores
+1. [progressivewebapp.store](https://progressivewebapp.store/)  
+2. [Android Playstore](https://play.google.com/store)
+3. [IOS Appstore](https://www.apple.com/app-store/)
+
+
 ## Bewertungskriterien
 Functional Correctness  
 Security  
