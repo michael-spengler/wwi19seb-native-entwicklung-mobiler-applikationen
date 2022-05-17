@@ -26,7 +26,7 @@ Native [IOS Development](https://www.youtube.com/watch?v=yuo50-TiKgo)
 
 ## App Stores
 [progressivewebapp.store](https://progressivewebapp.store/)  
-[Android Playstore](https://play.google.com/store)
+[Android Playstore](https://play.google.com/store)  
 [IOS Appstore](https://www.apple.com/app-store/)
 
 
