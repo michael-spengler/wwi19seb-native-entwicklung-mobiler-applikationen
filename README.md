@@ -45,9 +45,6 @@ Learnings dokumentiert...
 30 - 60 mins in der großen Runde Besprechung typischer Challenges   
 Danach Gruppenarbeit   
 
-## Reminder CultDAO Exkurs
-https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/ 
-
 ## Debating Club mit spielerischen Rollenwechsel
 ### Goal
 Gegenseitiges Verständnis inklusive gegenseitiger Education.
@@ -67,8 +64,8 @@ Vertraue denen, die die Wahrheit suchen - misstraue jenen, die glauben sie gefun
 1. Sollen wir uns in unserer Firma auf PWAs anstelle von Native Apps konzentrieren? 11 ja - 1 nein 
 2. done
 3. teils aus den Erinnerungen, teils gegoogelt ...
-4.  Debating  
-4.1 Pro Native   
+4.  Debating    
+4.1 Pro Native     
 PWA Vertriebschannel / Reichweite ist bei Native Apps besser - Beispiel: die Oma ...    
 Native Vertriebschannel bringen Qualitätssicherungssystem mit sich    
 Einfacherer Zugriff auf Systemfunktionen (Bilder / Bluetooth...)   
