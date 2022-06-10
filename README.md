@@ -44,3 +44,45 @@ Learnings dokumentiert...
 ## Vorlesungsgestaltung
 30 - 60 mins in der großen Runde Besprechung typischer Challenges   
 Danach Gruppenarbeit   
+
+## Reminder CultDAO Exkurs
+https://www.linkedin.com/feed/update/urn:li:activity:6940964509377298432/ 
+
+## Debating Club mit spielerischen Rollenwechsel
+### Goal
+Gegenseitiges Verständnis inklusive gegenseitiger Education.
+
+### Prinzip
+These - Antithese - Synthese    
+Vertraue denen, die die Wahrheit suchen - misstraue jenen, die glauben sie gefunden zu haben  
+
+### Durchführung Allgemein
+1. Umfrage durchführen  
+2. Rollenwechsel motivieren - wenn möglich auch physisch die Position ändern  
+3. Zeit geben zur Argumentesammlung  
+4. Debating durchführen 
+5. Recap 
+
+### Durchführung Konkret
+1. Sollen wir uns in unserer Firma auf PWAs anstelle von Native Apps konzentrieren? 11 ja - 1 nein 
+2. done
+3. teils aus den Erinnerungen, teils gegoogelt ...
+4.  Debating  
+4.1 Pro Native   
+PWA Vertriebschannel / Reichweite ist bei Native Apps besser - Beispiel: die Oma ...    
+Native Vertriebschannel bringen Qualitätssicherungssystem mit sich    
+Einfacherer Zugriff auf Systemfunktionen (Bilder / Bluetooth...)   
+Kompatibilität mit Systemfunktionen (OS spezifisch...)   
+Native "Feeling" einheitliches Look & Feel (wenn ich das mit PWAs erreichen möchte, bräuchte ich auch bei PWAs mehrere Codebases...)    
+Geschwindigkeit für den User ist bei nativen Apps typischerweise optimiert...    
+Zukunftsorientierung, da Betriebssystemänderungen vom Anbieter so gestaltet werden, dass kein oder wenig Anpassungsbedarf in den nativen Apps entsteht   
+
+4.2 Pro PWA
+Schnellere Entwicklungsgeschwindigkeit weil lediglich eine Code Base für alle Devices / Plattformen notwendig ist    
+Die Geschwindigkeitsunterschiede für den User fallen mittlerweile kaum mehr ins Gewicht  
+https://progressivewebapp.store    
+Keine unvernünftige Zensur / Einschränkung der Meinungsfreiheit  
+
+5. Recap --> Empfehlung prototypisch performance vergleiche / Versuchsaufbauten ... --> Synthese ... 
+
+
